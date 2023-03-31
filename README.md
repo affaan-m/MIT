@@ -7,8 +7,14 @@ This program from MIT Professional Education is delivered in collaboration with 
 
 Current Projects: 
 
-Machine Learning and Statistical Techniques Used: OLS regression, bootstrapping, Linear Ridge Regression,
-Lasso Regression, Neural Networks, Decision Trees, Time Series, Prophet, Exponential Smoothing.
+Machine Learning and Statistical Techniques Used: OLS regression, bootstrapping, Cross-Validation, Linear Ridge Regression,
+Lasso Regression, Neural Networks, Decision Trees, Random Forest, Time Series, Prophet, Exponential Smoothing.
+
+Used Car Price Prediction
+
+----------------------------------------------------------------------------
+
+Boston House Price Prediction
 
 ----------------------------------------------------------------------------
 
