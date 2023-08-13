@@ -29,6 +29,3 @@ Analysis of diabetes in populations of pima Indian individuals
 Area of Shapes
 
 ----------------------------------------------------------------------------
-
-Working on a Case Study and Research Paper to test the question: "To what extent do Twitter sentiment and Reddit discussions influence price fluctuations in microcap cryptocurrencies with a
-market cap under $1 million in the past 6 months, and how do these factors interact with each other?"
