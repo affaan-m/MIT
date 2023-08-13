@@ -23,7 +23,7 @@ Affaan's Data Science Projects Completed as part of MIT Professional Education's
 
 ### Area of Shapes
 - **Description:** Developed algorithms to calculate the area of various geometric shapes.
-
+-  **[Jupyter Notebook](Diabetes%20Analysis.ipynb)**
 ## Current Projects:
 
 Completed The Bootcamp
