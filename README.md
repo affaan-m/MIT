@@ -1,7 +1,3 @@
-Certainly, Affaan! I'll include the link to your Certificate of Completion in the README and provide the correct link to the Used Car Price Prediction Presentation.
-
----
-
 # MIT
 Affaan's Data Science Projects Completed as part of MIT Professional Education's Bootcamp
 
@@ -27,10 +23,9 @@ The Applied Data Science Program is developed for professionals who want to unde
 - **Description:** Developed algorithms to calculate the area of various geometric shapes.
 
 ## Current Projects:
-*(Move the relevant projects from this section to the completed projects as they are finished.)*
+
+Completed the Bootcamp
 
 ---
 
 You can download the [Used Car Price Prediction Notebook](sandbox:/mnt/data/FinalUsedCarPredictionFC.ipynb), the [Used Car Price Prediction Presentation](sandbox:/mnt/data/Used%20Car%20Price%20Prediction%20Presentation.pdf), and your [Certificate of Completion](sandbox:/mnt/data/Certificate_Of_Completion.pdf) for more context.
-
-Let me know if there's anything else I can assist you with, and congratulations on your achievements!
