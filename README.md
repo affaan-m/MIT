@@ -1,31 +1,36 @@
+Certainly, Affaan! Here's the revised README content for your MIT branch, including the completed projects and current projects sections.
+
+---
+
 # MIT
-Affaan's Data Science Projects Completed as part of MIT Professional Educations Bootcamp
+Affaan's Data Science Projects Completed as part of MIT Professional Education's Bootcamp
 
-The Applied Data Science Program is developed for any professional who wants to understand how to make data-driven business decisions. In this program that lasts for 12 weeks, learners will be able to upgrade their data analytics skills by learning the theory and practical application of supervised and unsupervised learning, time-series analysis, recommendation systems, and regression, to name a few. Upon successful fulfillment of requirements, learners will receive a Certificate of Completion from MIT Professional Education at the end of the program.
+The Applied Data Science Program is developed for professionals who want to understand how to make data-driven business decisions. This 12-week program enables learners to upgrade their data analytics skills, learning the theory and practical application of supervised and unsupervised learning, time-series analysis, recommendation systems, regression, and more. Upon successful fulfillment of requirements, learners receive a Certificate of Completion from MIT Professional Education. The program is delivered in collaboration with Great Learning, leveraging MIT's leadership in innovation, science, engineering, and technical disciplines. The aim is to build industry-valued skills and prepare learners to participate in or lead data science efforts at any organization.
 
-This program from MIT Professional Education is delivered in collaboration with Great Learning. It leverages MIT's leadership in innovation, science, engineering, and technical disciplines developed over years of research, teaching, and practice. The program aims to build industry-valued skills and to prepare learners to participate in or lead data science efforts at any organization.The Applied Data Science Program is developed for any professional who wants to understand how to make data-driven business decisions. In this program that lasts for 12 weeks, learners will be able to upgrade their data analytics skills by learning the theory and practical application of supervised and unsupervised learning, time-series analysis, recommendation systems, and regression, to name a few. Upon successful fulfillment of requirements, learners will receive a Certificate of Completion from MIT Professional Education at the end of the program. This program from MIT Professional Education is delivered in collaboration with Great Learning. It leverages MIT's leadership in innovation, science, engineering, and technical disciplines developed over years of research, teaching, and practice. The program aims to build industry-valued skills and to prepare learners to participate in or lead data science efforts at any organization.
+## Completed Projects:
+### Used Car Price Prediction
+- **Techniques:** OLS regression, bootstrapping, Cross-Validation, Linear Ridge Regression, Lasso Regression, Neural Networks, Decision Trees, Random Forest, Time Series, Prophet, Exponential Smoothing.
+- **Description:** Predicted the price of used cars using various machine learning and statistical techniques.
+- **[Jupyter Notebook](./FinalUsedCarPredictionFC.ipynb)**
+- **[Presentation PDF](./Used Car Price Prediction Presentation.pdf)**
 
-Current Projects: 
+### Boston House Price Prediction
+- **Description:** Analyzed and predicted the house prices in Boston using regression models.
 
-Machine Learning and Statistical Techniques Used: OLS regression, bootstrapping, Cross-Validation, Linear Ridge Regression,
-Lasso Regression, Neural Networks, Decision Trees, Random Forest, Time Series, Prophet, Exponential Smoothing.
+### Affects of Advertising on Sales
+- **Description:** Studied the effects of advertising on sales using statistical analysis.
 
-Used Car Price Prediction
+### Analysis of Diabetes in Populations of Pima Indian Individuals
+- **Description:** Conducted a comprehensive analysis of diabetes among Pima Indian populations using machine learning techniques.
 
-----------------------------------------------------------------------------
+### Area of Shapes
+- **Description:** Developed algorithms to calculate the area of various geometric shapes.
 
-Boston House Price Prediction
+## Current Projects:
+*(Move the relevant projects from this section to the completed projects as they are finished.)*
 
-----------------------------------------------------------------------------
+---
 
-Affects of Advertising on Sales
+Feel free to replace the placeholders with additional details or links to the corresponding files. You can also download the [Used Car Price Prediction Notebook](sandbox:/mnt/data/FinalUsedCarPredictionFC.ipynb) and the [Used Car Price Prediction Presentation](sandbox:/mnt/data/Used%20Car%20Price%20Prediction%20Presentation.pdf) for more context.
 
-----------------------------------------------------------------------------
-
-Analysis of diabetes in populations of pima Indian individuals
-
-----------------------------------------------------------------------------
-
-Area of Shapes
-
-----------------------------------------------------------------------------
+Let me know if there's anything else I can assist you with!
