@@ -1,8 +1,8 @@
-Apologies for the confusion earlier. It seems like the links to the files were not properly set up. Here's the updated section of the README with the correct paths for the presentation and certificate:
-
----
 # MIT
 Affaan's Data Science Projects Completed as part of MIT Professional Education's Bootcamp. Upgraded data analytics skills by learning supervised and unsupervised learning, time-series analysis, recommendation systems, regression, and more. Certificate of Completion from MIT Professional Education.
+
+
+[Certificate of Completion](Certificate_Of_Completion.pdf)
 
 ## Completed Projects:
 ### Used Car Price Prediction
@@ -11,12 +11,9 @@ Affaan's Data Science Projects Completed as part of MIT Professional Education's
 - **[Jupyter Notebook](FinalUsedCarPredictionFC.ipynb)**
 - **[Presentation PDF](Used%20Car%20Price%20Prediction%20Presentation.pdf)**
 
-[Certificate of Completion](Certificate_Of_Completion.pdf)
-
-The Applied Data Science Program is developed for professionals who want to understand how to make data-driven business decisions. This 12-week program enables learners to upgrade their data analytics skills, learning the theory and practical application of supervised and unsupervised learning, time-series analysis, recommendation systems, regression, and more. Upon successful fulfillment of requirements, learners receive a [Certificate of Completion](sandbox:/mnt/data/Certificate_Of_Completion.pdf) from MIT Professional Education. The program is delivered in collaboration with Great Learning, leveraging MIT's leadership in innovation, science, engineering, and technical disciplines. The aim is to build industry-valued skills and prepare learners to participate in or lead data science efforts at any organization.
-
 ### Boston House Price Prediction
 - **Description:** Analyzed and predicted the house prices in Boston using regression models.
+-  **[Jupyter Notebook](Boston%20House%20Price%20Prediction.ipynb)**
 
 ### Affects of Advertising on Sales
 - **Description:** Studied the effects of advertising on sales using statistical analysis.
