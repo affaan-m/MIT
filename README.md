@@ -25,7 +25,3 @@ The Applied Data Science Program is developed for professionals who want to unde
 ## Current Projects:
 
 Completed the Bootcamp
-
----
-
-You can download the [Used Car Price Prediction Notebook](sandbox:/mnt/data/FinalUsedCarPredictionFC.ipynb), the [Used Car Price Prediction Presentation](sandbox:/mnt/data/Used%20Car%20Price%20Prediction%20Presentation.pdf), and your [Certificate of Completion](sandbox:/mnt/data/Certificate_Of_Completion.pdf) for more context.
