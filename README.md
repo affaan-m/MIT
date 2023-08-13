@@ -1,18 +1,18 @@
-Certainly, Affaan! Here's the revised README content for your MIT branch, including the completed projects and current projects sections.
+Certainly, Affaan! I'll include the link to your Certificate of Completion in the README and provide the correct link to the Used Car Price Prediction Presentation.
 
 ---
 
 # MIT
 Affaan's Data Science Projects Completed as part of MIT Professional Education's Bootcamp
 
-The Applied Data Science Program is developed for professionals who want to understand how to make data-driven business decisions. This 12-week program enables learners to upgrade their data analytics skills, learning the theory and practical application of supervised and unsupervised learning, time-series analysis, recommendation systems, regression, and more. Upon successful fulfillment of requirements, learners receive a Certificate of Completion from MIT Professional Education. The program is delivered in collaboration with Great Learning, leveraging MIT's leadership in innovation, science, engineering, and technical disciplines. The aim is to build industry-valued skills and prepare learners to participate in or lead data science efforts at any organization.
+The Applied Data Science Program is developed for professionals who want to understand how to make data-driven business decisions. This 12-week program enables learners to upgrade their data analytics skills, learning the theory and practical application of supervised and unsupervised learning, time-series analysis, recommendation systems, regression, and more. Upon successful fulfillment of requirements, learners receive a [Certificate of Completion](sandbox:/mnt/data/Certificate_Of_Completion.pdf) from MIT Professional Education. The program is delivered in collaboration with Great Learning, leveraging MIT's leadership in innovation, science, engineering, and technical disciplines. The aim is to build industry-valued skills and prepare learners to participate in or lead data science efforts at any organization.
 
 ## Completed Projects:
 ### Used Car Price Prediction
 - **Techniques:** OLS regression, bootstrapping, Cross-Validation, Linear Ridge Regression, Lasso Regression, Neural Networks, Decision Trees, Random Forest, Time Series, Prophet, Exponential Smoothing.
 - **Description:** Predicted the price of used cars using various machine learning and statistical techniques.
 - **[Jupyter Notebook](./FinalUsedCarPredictionFC.ipynb)**
-- **[Presentation PDF](./Used Car Price Prediction Presentation.pdf)**
+- **[Presentation PDF](sandbox:/mnt/data/Used%20Car%20Price%20Prediction%20Presentation.pdf)**
 
 ### Boston House Price Prediction
 - **Description:** Analyzed and predicted the house prices in Boston using regression models.
@@ -31,6 +31,6 @@ The Applied Data Science Program is developed for professionals who want to unde
 
 ---
 
-Feel free to replace the placeholders with additional details or links to the corresponding files. You can also download the [Used Car Price Prediction Notebook](sandbox:/mnt/data/FinalUsedCarPredictionFC.ipynb) and the [Used Car Price Prediction Presentation](sandbox:/mnt/data/Used%20Car%20Price%20Prediction%20Presentation.pdf) for more context.
+You can download the [Used Car Price Prediction Notebook](sandbox:/mnt/data/FinalUsedCarPredictionFC.ipynb), the [Used Car Price Prediction Presentation](sandbox:/mnt/data/Used%20Car%20Price%20Prediction%20Presentation.pdf), and your [Certificate of Completion](sandbox:/mnt/data/Certificate_Of_Completion.pdf) for more context.
 
-Let me know if there's anything else I can assist you with!
+Let me know if there's anything else I can assist you with, and congratulations on your achievements!
