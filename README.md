@@ -11,7 +11,7 @@ The Applied Data Science Program is developed for professionals who want to unde
 ### Used Car Price Prediction
 - **Techniques:** OLS regression, bootstrapping, Cross-Validation, Linear Ridge Regression, Lasso Regression, Neural Networks, Decision Trees, Random Forest, Time Series, Prophet, Exponential Smoothing.
 - **Description:** Predicted the price of used cars using various machine learning and statistical techniques.
-- **[Jupyter Notebook](sandbox:/mnt/data/FinalUsedCarPredictionFC.ipynb)**
+- **[Jupyter Notebook]([sandbox:/mnt/data/FinalUsedCarPredictionFC.ipynb**])
 - **[Presentation PDF](sandbox:/mnt/data/Used%20Car%20Price%20Prediction%20Presentation.pdf)**
 
 ### Boston House Price Prediction
