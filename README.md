@@ -1,3 +1,7 @@
+Apologies for the confusion earlier. It seems like the links to the files were not properly set up. Here's the updated section of the README with the correct paths for the presentation and certificate:
+
+---
+
 # MIT
 Affaan's Data Science Projects Completed as part of MIT Professional Education's Bootcamp
 
@@ -7,7 +11,7 @@ The Applied Data Science Program is developed for professionals who want to unde
 ### Used Car Price Prediction
 - **Techniques:** OLS regression, bootstrapping, Cross-Validation, Linear Ridge Regression, Lasso Regression, Neural Networks, Decision Trees, Random Forest, Time Series, Prophet, Exponential Smoothing.
 - **Description:** Predicted the price of used cars using various machine learning and statistical techniques.
-- **[Jupyter Notebook](./FinalUsedCarPredictionFC.ipynb)**
+- **[Jupyter Notebook](sandbox:/mnt/data/FinalUsedCarPredictionFC.ipynb)**
 - **[Presentation PDF](sandbox:/mnt/data/Used%20Car%20Price%20Prediction%20Presentation.pdf)**
 
 ### Boston House Price Prediction
@@ -24,4 +28,4 @@ The Applied Data Science Program is developed for professionals who want to unde
 
 ## Current Projects:
 
-Completed the Bootcamp
+Completed The Bootcamp
